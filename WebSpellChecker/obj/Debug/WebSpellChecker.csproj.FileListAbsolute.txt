@@ -1,0 +1,60 @@
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\WebSpellChecker.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\WebSpellChecker.pdb
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\Antlr3.Runtime.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.Core.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\EntityFramework.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\System.Web.Optimization.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\System.Web.Providers.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\WebGrease.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\EntityFramework.xml
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.Core.xml
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\obj\Debug\WebSpellChecker.csprojResolveAssemblyReference.cache
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\obj\Debug\WebSpellChecker.dll
+C:\Users\Poczes\Documents\Visual Studio 2012\Projects\WebSpellChecker\WebSpellChecker\obj\Debug\WebSpellChecker.pdb
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\WebSpellChecker.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\WebSpellChecker.pdb
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\Antlr3.Runtime.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.Core.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\EntityFramework.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\System.Web.Optimization.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\System.Web.Providers.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\WebGrease.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\EntityFramework.xml
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.Core.xml
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\obj\Debug\WebSpellChecker.csprojResolveAssemblyReference.cache
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\obj\Debug\WebSpellChecker.dll
+C:\Users\Poczes\Documents\GitHub\WebSpellChecker\WebSpellChecker\obj\Debug\WebSpellChecker.pdb
